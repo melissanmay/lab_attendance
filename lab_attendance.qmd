@@ -1,0 +1,7 @@
+---
+title: "lab_attendance"
+Name: "Melissa May"
+format: html
+---
+
+## Something I've learned in class is how to use basic lines of code in RStudio to create and alter the appearance of data graphs and different visualizations.
